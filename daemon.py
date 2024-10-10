@@ -80,3 +80,6 @@ def get_touchpad_id():
 if __name__ == "__main__":
     HID_list = map_HID()
     print(HID_list)
+
+# TODO Make config file and store HID data in it.
+# TODO establish unix socket connection between the both parts.
