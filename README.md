@@ -1,5 +1,6 @@
 # HID_toggle
 If all unignored devices are not connected (e.g., an external mouse), it toggles an HID device ON (e.g. trackpad).
+This software is in development, and there are no releases yet.
 
 # Why shouldn't you use this
 1) It's for Debian distros only.
